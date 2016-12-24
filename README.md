@@ -1,2 +1,2 @@
-# Project-April_2016-Hridoy-Simple-College-Website-4.5k
+# Project-April_2016-Simple-College-Website
 Local College Website
