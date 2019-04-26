@@ -1,2 +1,5 @@
-# Project-April_2016-Simple-College-Website
-Local College Website
+# Simple College Website
+
+A Local College Website.
+
+Date: April 2016
